@@ -2,6 +2,7 @@ Git is a version control system.
 Git is free software.
 
 commands
+git init    //创建本地版本库
 git add readme.txt
 git commit -m "message"
 
